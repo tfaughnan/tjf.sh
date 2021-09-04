@@ -2,26 +2,7 @@ body {
     font-family: sans-serif;
     text-align: center;
     margin: 0px auto;
-    /*
-    background: linear-gradient(45deg, #99b0e5, #99e5c3, #efdbab, #f4c5c4);
-    background-size: 500% 500%;
-    animation: animate 20s ease infinite;
-    */
 }
-
-/*
-@keyframes animate {
-    0% {
-        background-position: 0% 50%;
-    }
-    50% {
-        background-position: 100% 50%;
-    }
-    100% {
-        background-position: 0% 50%;
-    }
-}
-*/
 
 table {
     text-align: left;
