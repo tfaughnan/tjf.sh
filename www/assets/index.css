@@ -7,10 +7,9 @@ body {
 table {
     text-align: left;
     margin: 0px auto;
-}
-
-a:link, a:visited {
-    color:blue;
+    border: 1px dashed;
+    border-radius: 5px;
+    padding: 10px;
 }
 
 .la-icon {
